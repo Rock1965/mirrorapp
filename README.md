@@ -5,7 +5,7 @@ Mirror App
 
 Mirror is an enterprise iOS and OS X app that allows you to wirelessly share content and mirror your iPad or iPhone screen to select classroom displays. In order to accomplish this Mirror acts as a bonjour repeater broadcasting an appletv registration to the device. The user is presented with a list of registrations that are stored on a [Mirror App Server](https://github.com/psutlt/mirrorapp-server), which is located in another github project. ~~[AirServer](http://www.airserver.com/)~~ and [Reflector](http://www.airsquirrels.com/reflector/) are also supported as an alternative to the AppleTV.
 
-Project development and feedback is encouraged and a Yammer partner group can be accessd by signing up to become a partner at [http://mirror.psu.edu/](http://mirror.psu.edu/).  
+Development has been discontinued on this project. There are several apps now enabling this feature that are available on the App Store. Mirror was the first app to enable this ability.
 
 ![Mirror image](https://raw.githubusercontent.com/psutlt/mirrorapp/master/MirrorFrame-151x300.png)![architecture](https://raw.githubusercontent.com/psutlt/mirrorapp/master/architecture.png)
 
