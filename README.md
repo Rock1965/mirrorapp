@@ -7,7 +7,7 @@ Mirror is an enterprise iOS and OS X app that allows you to wirelessly share con
 
 Project development and feedback is encouraged and a Yammer partner group can be accessd by signing up to become a partner at [http://mirror.psu.edu/](http://mirror.psu.edu/).  
 
-![Mirror image](http://mirror.psu.edu/wp-content/uploads/sites/4426/2014/02/MirrorFrame-151x300.png)![architecture](https://sites.psu.edu/airplay/wp-content/uploads/sites/4426/2014/07/architecture.png)
+![Mirror image](https://raw.githubusercontent.com/psutlt/mirrorapp/master/MirrorFrame-151x300.png)![architecture](https://raw.githubusercontent.com/psutlt/mirrorapp/master/architecture.png)
 
 This project is currently developed on the latest XCode and contains two targets.
 
